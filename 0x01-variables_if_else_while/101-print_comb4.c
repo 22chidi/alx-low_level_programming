@@ -19,7 +19,7 @@ if (l > m && m > n)
 {
 putchar(n);
 putchar(m);
-putchari(l);
+putchar(l);
 if (n != 55 || m != 56)
 {
 putchar(',');
